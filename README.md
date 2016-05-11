@@ -1,0 +1,9 @@
+# CS-140 Introduction to Programming
+
+> *Introduction to fundamental structures and concepts of Computer Science including object-oriented programming.*
+
+**Karl R. Wurst**
+<br>Worcester State University
+
+## Course-Level Student Learning OutcomesAfter successful completion of this course, students will be able to:
+* Understand the basic syntax and semantics of the Java programming language. (Emphasis)* Model an abstraction as a Java class. (Emphasis)* Distinguish between the concepts of class and object. (Mastery)* Manipulate integer and floating point values. (Mastery)* Code, compile, test and debug simple object-oriented programs given a program design/specification. (Emphasis)* Write simple methods to access and manipulate data. (Emphasis)* Accept user input from the keyboard, as command-line arguments and read data from a text file. (Emphasis)* Generate output to the screen and to a text file. (Emphasis)* Trace, code, test, and debug simple recursive functions and procedures. (Introduction)* Manipulate and compare strings. (Emphasis)* Store and access data in an array. (Emphasis)* Perform simple exception handling. (Introduction)* Write code representing conditional and repetition control structures. (Mastery)* Understand the difference between inheritance and an interface. (Introduction)* Understand the concept of inheritance and write simple inheritance hierarchies. (Introduction)* Trace code to determine the behavior of the code (Emphasis)* Draw a diagram representing memory and the object/reference relationships (Emphasis)* Write simple JUnit tests (Introduction)* Use a version control system to commit and revert changes on a single-user repository (Introduction)* Document code for other programmers, users of classes (javadoc), users of programs (Emphasis)
