@@ -1,3 +1,4 @@
+*Version 2017-Spring-1.1, Revised 13 January 2017*
 ### *CS-140 BL --- Spring 2017*
 
 # CS-140 Introduction to Programming
@@ -119,7 +120,7 @@ Each range includes the lower value, but not the upper value. For example, the r
 ## Laboratory AssignmentsThe laboratory assignments provide you with the chance to explore the Java language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
 ## Programming ProjectsThe programming projects will give you a chance to apply the material to larger tasks. These projects will require you to understand a design, implement that design in code, test, and debug it. Your code will have to follow formatting and documentation standards.
 
-## ExamsExam 1 will be given on 15 February 2017<br>Exam 2 will be given on 15 March 2017<br>Exam 3 will be given on 3 May 2017<br>
+## ExamsExam 1 will be given on 15 February 2017<br>Exam 2 will be given on 15 March 2017<br>Exam 3 will be given on 3 May 2017 (could be on 26 April 2017 if we don't need the extra week)<br>
 
 ## Deliverables
 All work must be submitted electronically. The submission method, due date and time will be given on the assignment. The submission date and time will be determined by the timestamp in Blackboard, GitLab, or CodeLab.
@@ -217,7 +218,8 @@ Spring Break Week | 22 March 2017 | **No Class** - Spring Break
 11 | 5 April 2017 | Chapter 8, Lab 8
 12 | 12 April 2017 | Chapter 9, Lab 9
 13 | 19 April 2017 | Chapter 10, Lab 10
-14 | 26 April 2017 | Exam 3
+14 | 26 April 2017 | If we need additional time, otherwise we will have Exam 3
+Final Exams | 3 May 2017 | Exam 3
 	##Copyright and License
 ####&copy;2016 Karl R. Wurst, Worcester State University
 
