@@ -1,12 +1,13 @@
-*Version 2017-Spring-1.1, Revised 13 January 2017*
-### *CS-140 BL --- Spring 2017*
+*Version 2019-Spring-1.0, Revised 16 January 2019*
+### *CS-140 03 &mdash; Spring 2019*
 
 # CS-140 Introduction to Programming
 
 ## Credit and Contact Hours
 4 credits
 
-Lecture and Lab --- 4 hours/week in class and a hour/week online
+Lecture: 3 hours/week<br>
+Laboratory: 2 hours/week
 
 ## Catalog Course Description
 > *Introduction to fundamental structures and concepts of Computer Science including object-oriented programming.*
@@ -16,26 +17,35 @@ Dr. Karl R. Wurst<br>
 See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Times and Locations
-Lecture and Lab --- W 5:30pm-9:30pm --- ST 107<br>Office hours --- W 5:00-5:30pm, W 9:30-10:00pm, other times listed on [my schedule](http://cs.worcester.edu/kwurst/#schedule), or by appointment --- ST 110C
+Lecture: TR 8:30-9:45am &mdash; ST 107<br>
+Laboratory: W 9:30-11:20am &mdash; ST 107
+
+Office hours: Listed on [my schedule](http://cs.worcester.edu/kwurst/#schedule), or by appointment &mdash; ST 110D
 
 ## It's in the Syllabus
-<img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
-<a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
+<img src="http://www.phdcomics.com/comics/archive/phd051013s.gif"><br>
+<a href="http://www.phdcomics.com/comics.php?f=1583">http://www.phdcomics.com/comics.php?f=1583</a>
 
-## Textbook and Practice Site (both must be purchased)
+Of course, not *everything* is in the syllabus, but many things are. 
 
-#### Textbook
+If you have a question, please check the syllabus first, and then ask if you can't find the answer.
 
-<img src=http://cs.worcester.edu/kwurst/img2/EHEP003421.jpg align=left height=110 style="padding-right:10px">
-*Java Concepts: Early Objects, Eighth edition*<br>
-Cay S. Horstmann<br>
-Wiley, 2016<br>
-ISBN-13: 9781119056454<br>
-<a href=http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP003421.html target="_blank">Textbook Website</a><br>
+## Textbook
 
-#### Practice Site
+*Java Early Objects*<br>
+Roman Lysecky and Adrian Lizarraga<br>
+zyBooks<br>
 
-TuringsCraft CodeLab is an online, interactive site for practicing writing Java code. The price is $25.
+The textbook can be purchased directly from zyBooks:
+
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: `WORCESTERCS140Spring2019`
+3. Subscribe
+
+Additional information:
+
+* A subscription is $58.
+* Subscriptions will last until Jun 12, 2019.
 
 ## Required Materials
 In addition to the textbook and practice site, to successfully complete this course you will need:
@@ -44,18 +54,22 @@ In addition to the textbook and practice site, to successfully complete this cou
 	1. **BlueJ** –-- This is the Java programming environment we will be using. We will download and install this software during the first laboratory session.
 	2.	**Git** --- We will use this software to share code during lab, and submit code to the instructor. We will download and install this software during the first laboratory session.
 2.	**Internet Access**: You will need internet access for access to:
-	1. **CodeLab** --- We will be using this site for Java code-writing practice.
+	1. **ZyBooks** --- Our textbook and Java code-writing practice.
 	2. **Blackboard** --- All course materials and announcements will be made available through the course site on Blackboard. Quizzes will be given on Blackboard. Students will be required to use Blackboard as the course tool. 
 	3. **WSU Gmail** --- You must check your WSU Gmail account on a regular basis. All communications to the class, such as corrections to problem sets or changes in due dates, will be sent to your WSU Gmail account.
 	4. **Piazza** --- This is an online service that lets you ask (and answer other students’) questions about the course assignments, materials, and topics.
-	5. **GitLab** --- This is where we will use to host and submit our code.
+	5. **GitLab** --- This is where we will host and submit our code.
 
-## Where Does This Course Lead?* CS-242 Data Structures * CS-254 Computer Organization and Architecture* Your professional career.
+## Where Does This Course Lead?
+* CS-242 Data Structures 
+* CS-254 Computer Organization and Architecture
+* CS-286 Database Design and Applications
+* Your professional career.
 
 ## Course Workload Expectations
-***This is a four-credit course with laboratory. You should expect to spend, on average, 1 hours per week on this class.***
- This blended class has the same time expectations as the face-to-face version of this course –-- 5 hours per week in the classroom –-- 3 hours of lecture/discussion time and 2 hours of laboratory time. In addition, there is an expectation to spend, on average, at least 6 hours per week during the semester outside of the classroom, reading the textbook, studying, doing assignments, working on projects, and practicing in order to master the concepts and techniques covered in the course. (See Definition of the Credit Hour)
-Since this class is a blended class, we will spend 4 of the 5 classroom hours in a face-to-face classroom and the remaining 1 hour online, bringing the out-of-class total to 7 hours per week. 
+***This is a four-credit course with laboratory. You should expect to spend, on average, 11 hours per week on this class.***
+ 
+The time expectations for his course are 5 hours per week in the classroom –-- 3 hours of lecture/discussion time and 2 hours of laboratory time. In addition, there is an expectation to spend, on average, at least 6 hours per week during the semester outside of the classroom, reading the textbook, studying, doing assignments, working on projects, and practicing in order to master the concepts and techniques covered in the course. (See Definition of the Credit Hour)
 
 ## Definition of the Credit Hour
 >Federal regulation defines a credit hour as an amount of work represented in intended learning outcomes and verified by evidence of student achievement that is an institutional established equivalence that reasonably approximates not less than –
@@ -66,15 +80,113 @@ In addition to the textbook and practice site, to successfully complete this cou
 >---New England Association of Schools and Colleges, Commission on Institutions of Higher Education, <a href="http://cihe.neasc.org/downloads/POLICIES/Pp111_PolicyOnCreditsAndDegrees.pdf" target="_blank">Policy on Credits and Degrees</a>
 
 ## Prerequisites
-Since this course has a prerequisite of Basics of Computer Science (CS-101), I assume that you have a basic understanding of:* how computers represent and manipulate data* binary numbers and their operations* boolean operations (AND, OR, NOT)* the concept of an algorithm* the pseudocode representation of an algorithm* the algorithmic principles of assignment, conditionals, and repetition***If you do not have this background, you should not take this course.***
+Since this course has a prerequisite of Basics of Computer Science (CS-101), I assume that you have a basic understanding of:
 
-## AttendanceYou are expected to attend every class. Past experience has shown that students who do not attend class do not do as well on exams and projects.
-## Course-Level Student Learning OutcomesAfter successful completion of this course, students will be able to:
-* Understand the basic syntax and semantics of the Java programming language. (Emphasis)* Model an abstraction as a Java class. (Emphasis)* Distinguish between the concepts of class and object. (Mastery)* Manipulate integer and floating point values. (Mastery)* Code, compile, test and debug simple object-oriented programs given a program design/specification. (Emphasis)* Write simple methods to access and manipulate data. (Emphasis)* Accept user input from the keyboard, as command-line arguments and read data from a text file. (Emphasis)* Generate output to the screen and to a text file. (Emphasis)* Trace, code, test, and debug simple recursive functions and procedures. (Introduction)* Manipulate and compare strings. (Emphasis)* Store and access data in an array. (Emphasis)* Perform simple exception handling. (Introduction)* Write code representing conditional and repetition control structures. (Mastery)* Understand the difference between inheritance and an interface. (Introduction)* Understand the concept of inheritance and write simple inheritance hierarchies. (Introduction)* Trace code to determine the behavior of the code (Emphasis)* Draw a diagram representing memory and the object/reference relationships (Emphasis)* Write simple JUnit tests (Introduction)* Use a version control system to commit and revert changes on a single-user repository (Introduction)* Document code for other programmers, users of classes (javadoc), users of programs (Emphasis)## LASC Student Learning OutcomesThis course does not fulfill any LASC Content Area requirements, but contributes to the following Overarching Outcomes of LASC:* Demonstrate effective oral and written communication.* Employ quantitative and qualitative reasoning.* Apply skills in critical thinking.* Apply skills in information literacy.* Understand the roles of science and technology in our modern world.* Understand how scholars in various disciplines approach problems and construct knowledge.## Program-Level Student Learning OutcomesThis course addresses the following outcomes of the Computer Science Major:
-Students will be able to:
-	1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Introductory Level)2.	Communicate effectively both in written and oral form. (Introductory Level)4.	Demonstrate an understanding of and appreciation for the importance of negotiation, effective work habits, leadership, and good communication with teammates and stakeholders. (Introductory Level)5.	Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Introductory Level)## Course TopicsThe course outline will be covered on a best-effort basis, subject as always to time limitations as the course progresses.  * Programming Languages vs. Natural Languages* Translation, Interpretation, Compilation* Syntax and Semantics* Algorithms* Testing and Debugging	* Junit* Variables, Assignment, Operators* Objects and Classes* Instance and Class Methods* Control Flow	* Repetition	* Selection	* Tracing code* String operations and comparisons* Input/Output* Command line arguments* Arrays and ArrayList* File I/O* Exceptions* Inheritance* Interfaces* Recursion* Simple version control	* Git* Documentation PAL 	* Javadoc
+* how computers represent and manipulate data
+* binary numbers and their operations
+* boolean operations (AND, OR, NOT)
+* the concept of an algorithm
+* the pseudocode representation of an algorithm
+* the algorithmic principles of assignment, conditionals, and repetition
 
-## Course PhilosophyEven though this course will be using the Java programming language and its associated libraries, much of what you will be learning is language independent. Therefore, we will place an emphasis on concepts and techniques, in addition to the particulars of the Java programming language.You are encouraged to help each other out, in and out of the classroom, as long as you do your own work. (See Academic Conduct below.)<!--## Instructional MethodsThis class will not be a traditional “lecture” class, and will incorporate some teaching methods that may be unfamiliar to you.### Flipped ClassroomYou will be given reading assignments in the iJava textbook and from other sources, and you will be expected to complete a short quiz on the reading assignment(s) before the class meeting. Your answers from the quiz will be used to tailor what we do in the classroom. If everyone understands a topic or concept, we will not spend time on it in class. If a large portion of the class is having difficulties with a topic or concept, we will work on it in class to make sure everyone understands.Your quizzes will be graded on the effort you put into explaining your answer. If you do not complete the quiz by the specified time, you will not receive any points for that quiz.This flipped classroom technique means that I will spend much less time “telling” you things that you already understand from the reading, and more time on the concepts that you find difficult.### Peer InstructionIn the classroom, you will often be presented with a problem and a set of possible answers. You will “vote” for the correct answer using your browser. Then you will discuss your answer and your explanation with your classmates. Once you have completed your discussions, you will vote again. If the discussions have helped the class understand the material better, we will move on to other topics. If there is still difficulty with the material, we will spend more time with additional explanations and problems.This time spent actively discussing the material with your classmates will help you develop a deeper understanding of the concepts.### Pair ProgrammingDuring labs, you will work in a pair with one of your classmates. One of you will type while the other makes suggestions, watches for errors, reads the assignment, and thinks ahead. You will switch roles frequently during the lab session. You will be randomly assigned a new partner each lab. This will allow you to get to know the other members of the class, work with partners of different abilities and programming styles, and develop relationships that may extend beyond to classroom.-->
+***If you do not have this background, you should not take this course.***
+
+## Attendance
+You are expected to attend every class. Past experience has shown that students who do not attend class do not do as well on exams and projects.
+
+## Course-Level Student Learning Outcomes
+After successful completion of this course, students will be able to:
+
+* Understand the basic syntax and semantics of the Java programming language. (Emphasis)
+* Model an abstraction as a Java class. (Emphasis)
+* Distinguish between the concepts of class and object. (Mastery)
+* Manipulate integer and floating point values. (Mastery)
+* Code, compile, test and debug simple object-oriented programs given a program design/specification. (Emphasis)
+* Write simple methods to access and manipulate data. (Emphasis)
+* Accept user input from the keyboard, as command-line arguments and read data from a text file. (Emphasis)
+* Generate output to the screen and to a text file. (Emphasis)
+* Trace, code, test, and debug simple recursive functions and procedures. (Introduction)
+* Manipulate and compare strings. (Emphasis)
+* Store and access data in an array. (Emphasis)
+* Perform simple exception handling. (Introduction)
+* Write code representing conditional and repetition control structures. (Mastery)
+* Understand the difference between inheritance and an interface. (Introduction)
+* Understand the concept of inheritance and write simple inheritance hierarchies. (Introduction)
+* Trace code to determine the behavior of the code (Emphasis)
+* Draw a diagram representing memory and the object/reference relationships (Emphasis)
+* Write simple JUnit tests (Introduction)
+* Use a version control system to commit and revert changes on a single-user repository (Introduction)
+* Document code for other programmers, users of classes (javadoc), users of programs (Emphasis)
+
+## LASC Student Learning Outcomes
+This course does not fulfill any LASC Content Area requirements, but contributes to the following Overarching Outcomes of LASC:
+
+* Demonstrate effective oral and written communication.
+* Employ quantitative and qualitative reasoning.
+* Apply skills in critical thinking.
+* Apply skills in information literacy.
+* Understand the roles of science and technology in our modern world.
+* Understand how scholars in various disciplines approach problems and construct knowledge.
+
+## Program-Level Student Learning Outcomes
+This course addresses the following outcomes of the Computer Science Major:
+
+Students will be able to:
+	
+1.	Analyze a problem, develop/design multiple solutions and evaluate and document the solutions based on the requirements. (Introductory Level)
+2.	Communicate effectively both in written and oral form. (Introductory Level)
+4.	Demonstrate an understanding of and appreciation for the importance of negotiation, effective work habits, leadership, and good communication with teammates and stakeholders. (Introductory Level)
+5.	Learn new models, techniques, and technologies as they emerge and appreciate the necessity of such continuing professional development. (Introductory Level)
+
+## Course Topics
+The course outline will be covered on a best-effort basis, subject as always to time limitations as the course progresses. 
+ 
+* Programming Languages vs. Natural Languages
+* Translation, Interpretation, Compilation
+* Syntax and Semantics
+* Algorithms
+* Testing and Debugging
+	* Junit
+* Variables, Assignment, Operators
+* Objects and Classes
+* Instance and Class Methods
+* Control Flow
+	* Repetition
+	* Selection
+	* Tracing code
+* String operations and comparisons
+* Input/Output
+* Command line arguments
+* Arrays and ArrayList
+* File I/O
+* Exceptions
+* Inheritance
+* Interfaces
+* Recursion
+* Simple version control
+	* Git
+* Documentation
+	* Javadoc
+
+## Course Philosophy
+Even though this course will be using the Java programming language and its associated libraries, much of what you will be learning is language independent. Therefore, we will place an emphasis on concepts and techniques, in addition to the particulars of the Java programming language.
+
+You are encouraged to help each other out, in and out of the classroom, as long as you do your own work. (See Academic Conduct below.)
+
+## Instructional Methods
+This class will not be a traditional “lecture” class, and will incorporate some teaching methods that may be unfamiliar to you.
+
+### POGIL
+Rather than lecturing about the course content, you and your classmates will "discover" the content for yourselves through small-group work.
+
+The group work will be a very structured style called Process Oriented Guided Inquiry Learning (POGIL). Through investigation of models of the concepts and answering questions that guide the team toward understanding of the models, your team will both learn the content and team process skills. In your POGIL groups each group member will have a specific role to play during the activity, and roles will be rotated so that everyone will get to experience a variety of process skills.
+
+For more information on POGIL, see [https://pogil.org/about-pogil/what-is-pogil](https://pogil.org/about-pogil/what-is-pogil).
+
+### Pair Programming
+During labs, you will work in a pair with one of your classmates. One of you will type while the other makes suggestions, watches for errors, reads the assignment, and thinks ahead. You will switch roles frequently during the lab session. 
+
+You will be randomly assigned a new partner each lab. This will allow you to get to know the other members of the class, work with partners of different abilities and programming styles, and develop relationships that may extend beyond to classroom.
 
 ## Peer-Assisted Learning (PAL) Sessions
 Your success in this course is important, and is being supported in the Spring 2017 semester by Peer-Assisted Learning (PAL) sessions run by the [Aisiku STEM Center](http://www.worcester.edu/Aisiku-STEM-Center/) at WSU. PAL is being provided in selected courses in Biology, Chemistry, Computer Science, Earth Science, and Mathematics.
@@ -89,41 +201,93 @@ The PAL student leader will introduce himself during the first class session, an
 
 Your attendance at the PAL sessions is not reported to the course instructor, to ensure that all students in the course are treated equally and fairly with regard to grading.
 
-*PAL provided by WSU's Imoigele P. Aisiku, M.D., ’92 STEM Center is supported by the Workforce Preparation Support Program generously funded by philanthropic support from The Fairlawn Foundation Fund at Greater Worcester Community Foundation.*
+### PAL Session Hours
 
-## Grading PoliciesThere will be homework assignments and quizzes, laboratory assignments, programming projects, and three exams. Your grade in the course will be determined as follows:
+* Tuesdays &mdash; 3:30-4:30pm &mdash; STEM Center (ST 100)
+* Wednesdays &mdash; 2:00-3:00pm &mdash; STEM Center (ST 100) 
+
+## Grading Policies
+I want everyone receiving a passing grade in this course to be, at least, minimally competent in the course learning outcomes and for that to be reflected in your course grade. Traditional grading schemes do a poor job of indicating competency.
+
+As an example, imagine a course with two major learning outcomes: *X* and *Y*. It is widely considered that a course grade of C indicates that a student is minimally competent in achieving the course outcomes. However, if the student were to receive a grade of 100 for outcome *X*, and a grade of 40 for outcome *Y*, the student would still have a 70 (C-) average for the course. Yet the student is clearly not competent in outcome *Y*.
+
+Therefore the grading in this course will be handled in a different manner:
+
+* All assignments will be graded on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis, based on whether the student work meets the instructor-supplied specification. 
+* A minimum collection of assignments, indicating competency in the course learning outcomes, must be completed in a ***Meets Specification*** manner to earn a passing course grade (D).
+* Higher passing grades (A, B, C) can be earned by completing more assignments and/or assignments that show higher-level thinking and learning skills.
+
+### Assignment Grading
+
+* All assignments in this course will be graded exclusively on a ***Meets Specification*** / ***Does Not Yet Meet Specification*** basis. 
+* **For each assignment, you will be given a detailed specification explaining what is required for the work to be marked *Meets Specification*.** 
+* Failing to meet ***any part*** of the specification will result in the work being marked **Does Not Yet Meet Specification**. 
+* There will be no partial credit given. 
+* If you are unclear on what the specification requires, it is your responsibility to ask me for clarification.
+* It will be possible to revise and resubmit a limited number of assignments with **Does Not Yet Meet Specification** grades (see *Revision and Resubmission of Work* below).
+
+### Course Grade Determination
+
+Your grade for the course will be determined by which assignments and/or how many assignments you complete in an Meets Specification manner.
+
+#### Base Grade
+
+Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
+--- | :-: | :-: | :-: | :-:
+Class Attendance and Participation (out of 26 classes) | 25 | 24 | 23 | 22
+Lab Attendance and Participation (out of 12 lab sessions) | 12 | 12 | 12 | 11
+Readings Quizzes (out of *n*) | *n* | *n* | *n*  | *n* - 1
+zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | 100% <br> 90% | 90% <br> 80% | 80% <br> 70% | 70% <br> 60%
+Laboratory Assignments (out of 12) | 12 | 12 | 12 | 11
+Programming Projects (out of *n* &mdash; approx 6) | *n* | *n* | *n*  | *n* - 1
+Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of *n* &mdash; approx 12)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of *n* &mdash; approx 6) | *n*<br>*n* - 1 | int(*n* * .75)<br>*n* - 2 | int(*n* * .5)<br>*n* - 3 | int(*n* *.25)<br> *n* - 4
+Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
+
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit *n* -2  Programming Assignment Disussion Logs that meet specification, you will earn a C grade.
+* **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
+
+#### Plus or Minus Grade Modifiers
+
+* You will have a ***minus*** modifier applied to your base grade if the average of your exam grades is lower than 60%.
+* You will have a ***plus*** modifier applied to your base grade if the average of your exam grades is 85% or higher.
+* Each unused token remaining at the end of the semester can be used to increase the exam average by 2 percentage points.
+
+*Notes:*
  
-Assignment Category | Percentage
----|:-:
-Attendance and Class participation | 4%Laboratory Assignments | 12%Quizzes on Readings | 12%CodeLab Practice | 12%Programming Projects | 20%Exams (3) | 40%
+* WSU has no A+ grade.
+* I reserve the right to revise *downward* the required number of assignments needed for each base grade due to changes in number of assignments assigned or unexpected difficulties with assignments.
 
-### Grading Scale
-Percentage | Letter Grade 
-:-:|:-:
-93--100% | A
-90--93% | A-
-87--90% | B+
-83--87% | B
-80--83% | B-
-77--80% | C+
-73--77% | C
-70--73% | C-
-67--70% | D+
-63--67% | D
-60--63% | D-
-less than 60% | E 
+## Class and Lab Attendance and Participation
+Since there will be no lecture during class, it is particularly important that you attend class sessions and participate in developing the material and concepts with your group. Simply being present is not enough to really learn the material - you need to play your part.
 
-Each range includes the lower value, but not the upper value. For example, the range of 80 to 83 includes all grades up to, but not including 83. The highest range does, however, include 100%.
-## Quizzes on ReadingsYou will take quizzes on the readings before class that will guide the development of the in-class sessions.
+During class time you are expected to participate in your group, to play your assigned role, and to contribute to your groups's notes.
 
-## CodeLab PracticeThe CodeLab site provides Java code-writing practice, with feedback, to help you master writing code.
-## Laboratory AssignmentsThe laboratory assignments provide you with the chance to explore the Java language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
-## Programming ProjectsThe programming projects will give you a chance to apply the material to larger tasks. These projects will require you to understand a design, implement that design in code, test, and debug it. Your code will have to follow formatting and documentation standards.
+During lab time, you will be working with your lab partner to complete the lab assignment.
 
-## ExamsExam 1 will be given on 15 February 2017<br>Exam 2 will be given on 15 March 2017<br>Exam 3 will be given on 3 May 2017 (could be on 26 April 2017 if we don't need the extra week)<br>
+**You will be using your computer within your group activities and labs. You should only be using your computer for the classwork. You should not be checking sites that are unrelated to the course, or messaging friends. If I see that you are doing other things on your computer and not participating in your group, I will warn you. If I have to warn you a second time during that class, you will lose your participation points for that class.**
+
+## Quizzes on Readings
+You will take quizzes on the readings so that I may assess where students are having conceptual difficulties with the material. In addition to giving an answer to the quiz questions, you will required to explain your reasoning for the answers you chose. All quizzes can be attempted an unlimited number of times.
+
+## zyBooks Practice
+The zyBooks textbook contains both Participation activities, where credit is given simply for trying the activity, and Challenge activities which require a correct answer. All activities can be attempted an unlimited number of times.
+
+## Laboratory Assignments
+The laboratory assignments provide you with the chance to explore the Java language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
+
+## Programming Projects
+The programming projects will give you a chance to apply the material to larger tasks. These projects will require you to understand a design, implement that design in code, test, and debug it. Your code will have to follow formatting and documentation standards.
+
+## Discussion Logs
+You will be given the chance to complete a discussion log for each Lab Assignment and Programming Project. In the Discussion Log, you will be asked to reflect on your learning and your work process to help you understand how you work, and where you can improve.
+
+## Exams
+Exam 1 is scheduled for the week of 18 February 2019.<br>
+Exam 2 is scheduled for the week of 1 April 2019.<br>
+Exam 3 will be given during our scheduled final exam period on Thursday, 9 May 2019 &mdash; 8:30-11:30am.
 
 ## Deliverables
-All work must be submitted electronically. The submission method, due date and time will be given on the assignment. The submission date and time will be determined by the timestamp in Blackboard, GitLab, or CodeLab.
+All work must be submitted electronically. The submission method, due date and time will be given on the assignment. The submission date and time will be determined by the timestamp in Blackboard, GitLab, or zyBooks.
 
 **Please do not submit assignments to me via email.** It is difficult for me to keep track of them and I often fail to remember that they are in my mailbox when it comes time to grade the assignment.
 
@@ -132,25 +296,40 @@ It is strongly recommended that you keep copies of your projects. Students are r
 Graded assignments (with comments and solutions) will be returned to you electronically. *Please make sure that you review the comments and solutions provided so you can improve your future work.*
 
 ## Late Submissions
-**Late assignments are not accepted.** This is so that we may discuss the assignment soon after the due date.
+Late work will not be accepted. (See *Tokens* below.)
 
-I understand that occasionally circumstances beyond your control (work, family emergencies, illness, etc.) may prevent you from completing an assignment on time. If that is the case, please e-mail me before the assignment is due and I will certainly consider your case.
+## Revision and Resubmission of Work
+
+You may resubmit each lab assignment and programming assignment a second time if your first attempt "Does not yet meet specification". If you need to resubmit an assignment a third time, you will have to spend a token.
+
+## Tokens
+Each student will be able to earn up to 5 tokens over the course of the semester. These tokens will be earned by completing simple set-up and housekeeping tasks for the course.
+
+Each token can be used to:
+
+* replace a single missed class session (up to a maximum of 2 missed class sessions)
+* turn in an assignment late by 24 hours
+* revise and resubmit an assignment that was judged "Does Not Yet Meet Specification" beyond the second attempt. Any work to be revised and resubmitted must have been submitted by the original due date. 
+
+### Token Accounting
+* Unused tokens will be kept track of in the Blackboard *My Grades* area.
+* Tokens will not be automatically applied. You must explicitly tell me **by email** when you want to use a token, and for which assignment.
 
 ## Getting Help
-If you are struggling with the material or a project please contact or see me as soon as possible. Often an email explanation or a few minutes of individual attention is all that is needed to get you back on track.
+If you are struggling with the material or a project please see me as soon as possible. Often a few minutes of individual attention is all that is needed to get you back on track.
 
 By all means, try to work out the material on your own, but ask for help when you cannot do that in a reasonable amount of time. The longer you wait to ask for help, the harder it will be to catch up. 
 
-I am here to help you understand the material and be successful in the course.
+**Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
 ## Contacting Me
-You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office (ST 110C). My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
+You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office (ST 110D). My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include "[CS-140]" in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
 **If you email me from an account other than your Worcester State email, please be sure that your name appears somewhere in the email, so that I know who I am communicating with.** 
 
-<img src=http://www.phdcomics.com/comics/archive/phd042215s.gif><br><a href=http://www.phdcomics.com/comics.php?f=1795>http://www.phdcomics.com/comics.php?f=1795</a>
+<img src="http://www.phdcomics.com/comics/archive/phd042215s.gif"><br><a href="http://www.phdcomics.com/comics.php?f=1795">http://www.phdcomics.com/comics.php?f=1795</a>
 
 You may expect that I will get back to you within 24 hours of your email or phone call (with the exception of weekends and holidays), although you will likely hear from me much sooner.
 
@@ -165,22 +344,20 @@ All students are expected to adhere to the policies as outlined in the Universit
 * Expect to spend at least 22 hours of work per week on class work.
 * Each student is responsible for the contents of the textbook readings, handouts, and homework assignments.
 
-## Americans with Disabilities Act/Student Accessibility Services
-Worcester State University and this instructor are committed to the full participation of all students, and will provide accommodations for any student with documented disabilities who are registered with [Student Accessibility Services (SAS)](http://www.worcester.edu/Student-Accessibility-Services/). The SAS is located in the Administration Building, Room 131 and can be reached by phone (508-929-8733) or email (<a href="mailto:sas@worcester.edu">sas@worcester.edu</a>).  
-
-Please contact the instructor as early as possible to discuss necessary accommodations. All information regarding disabilities will be treated with confidentiality. 
-
-##Math Center
-If you are looking for tutoring for a math course or a course with math components, the [Math Center](http://www.worcester.edu/SP-Math-Center/) is here to help. Housed in the Mathematics Department (Sullivan Academic Center, Room 143), the center is staffed with a supervisor and peer tutors who can provide you with a conceptual mathematical understanding that will enable you to succeed in your courses and complete your assignments independently. 
+## Accessibility Statement
+Worcester State University values the diversity of all of our students, faculty and staff.  We recognize the importance of each student’s contribution to our campus community.  WSU is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations so that each student may fully participate in programs and services at WSU.  If you have a disability that requires reasonable accommodations, please contact Student Accessibility Services at SAS@worcester.edu or 508-929-8733.  Please be aware that accommodations cannot be enacted retroactively, making timeliness a critical aspect for their provision.
 
 ## Tutoring Services/Academic Success Center
-Tutoring Services are offered through the [Academic Success Center (ASC)](http://www.worcester.edu/SP-Academic-Success-Center/).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible.
+Tutoring Services are offered through the Academic Success Center (ASC).  The ASC is located on the first floor of the Administration building, A-130.  Tutoring services are provided to students FREE of charge.  Students seeking academic assistance should visit the center as soon as possible or contact the Tutoring Coordinator at 508-929-8139
+
+## The Math Center
+The Math Center provides free assistance to students in Mathematics.  It is located on the first floor of the Sullivan Academic Building, S143.
 
 ## The Writing Center
-The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center's hours and the Center's Online Writing Lab, visit their website at <a href="http://www.worcester.edu/SP-Writing-Center/" target="_blank">http://www.worcester.edu/SP-Writing-Center/</a>.
+The writing center provides free assistance to students in the areas of research and writing.  It is located on the third floor of the Sullivan Academic Building, S306.  To schedule an appointment, please call 508-929-8112 or email the Center at writingcenter@worcester.edu.  To find out more information about the Writing Center including the Center's hours and the Center's Online Writing Lab, visit their website at <a href="http://www2.worcester.edu/WritingCenter/" target="_blank">http://www2.worcester.edu/WritingCenter/</a>.
 
 ## Worcester State Library
-[Worcester State Library](http://www.worcester.edu/Library/) has access to many articles through online databases including J-STOR. In addition many articles and book chapters are available to students through Inter-Library Loan (ILL).  With a little planning, ILL expands your ability to get credible information sources about topics you pursue in your course work.  Finally WSU students are free to use many of the library resources within the consortium. Given all of these resources it is extremely unlikely that you should have to pay for access to individual articles. Please work with the reference librarians to find the appropriate way to access materials you need.  You have already paid for these resources through your fees---please make use of them.
+Worcester State Library has access to many articles through online databases including J-STOR. In addition many articles and book chapters are available to students through Inter-Library Loan (ILL).  With a little planning, ILL expands your ability to get credible information sources about topics you pursue in your course work.  Finally WSU students are free to use many of the library resources within the consortium. Given all of these resources it is extremely unlikely that you should have to pay for access to individual articles. Please work with the reference librarians to find the appropriate way to access materials you need.  You have already paid for these resources through your fees—please make use of them.
 
 ## Academic Conduct
 Each student is responsible for the contents of the readings, discussions, class materials, textbook and handouts. All work must be done independently unless assigned as a group project. You may discuss assignments and materials with other students, but you should never share answers or files. ***Everything that you turn in must be your own original work, unless specified otherwise in the assignment.***
@@ -203,24 +380,17 @@ It is in the interest of students, faculty, and administrators to recognize the 
 
 **If you have a serious problem that prevents you from finishing an assignment on time, contact me and we'll come up with a solution.**
 
+## Student Work Retention Policy
+It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
+
 ## Schedule
-*The following course schedule is subject to change.*Week | Day | Topics
-:-: | :-: | :-:1 | 18 January 2017 | Chapter 1, Lab 1 
-2 | 25 January 2017 | Chapter 2, Lab 23 | 1 February 2017 | Chapter 3, Lab 3 
-4 | 8 February 2017 | Chapter 4, Lab 4 
-5 | 15 February 2017 | Exam 1
-6 | 22 February 2017 | Chapter 5, Lab 5 
-7 | 1 March 2017 | Chapter 6, Chapter 11, Lab 6
-8 | 8 March 2017 | **No Class** - I will be at a conference
-9 | 15 March 2017 | Exam 2
-Spring Break Week | 22 March 2017 | **No Class** - Spring Break
-10 | 29 March 2017 | Chapter 7, Lab 7
-11 | 5 April 2017 | Chapter 8, Lab 8
-12 | 12 April 2017 | Chapter 9, Lab 9
-13 | 19 April 2017 | Chapter 10, Lab 10
-14 | 26 April 2017 | If we need additional time, otherwise we will have Exam 3
-Final Exams | 3 May 2017 | Exam 3
-	##Copyright and License
-####&copy;2017 Karl R. Wurst, Worcester State University
+
+* Our first class will be on Tuesday, 22 January 2019.
+* Our last class will be on Tuesday, 7 May 2019.
+* We will not have lab on Wednesday, 27 February 2019 as I will be away at a conference.
+* We will not have class on Thursday, 28 February 2019 as I will be away at a conference.
+
+## Copyright and License
+#### &copy;2019 Karl R. Wurst, Worcester State University
 
 <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">http://creativecommons.org/licenses/by-sa/4.0/</a> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
