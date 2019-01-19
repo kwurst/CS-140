@@ -1,4 +1,4 @@
-*Version 2019-Spring-1.0, Revised 16 January 2019*
+*Version 2019-Spring-1.1, Revised 19 January 2019*
 ### *CS-140 03 &mdash; Spring 2019*
 
 # CS-140 Introduction to Programming
@@ -236,7 +236,7 @@ Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C |
 --- | :-: | :-: | :-: | :-:
 Class Attendance and Participation (out of 26 classes) | 25 | 24 | 23 | 22
 Lab Attendance and Participation (out of 12 lab sessions) | 12 | 12 | 12 | 11
-Readings Quizzes (out of *n*) | *n* | *n* | *n*  | *n* - 1
+Readings Quizzes Average | 95% | 85% | 75%  | 65%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | 100% <br> 90% | 90% <br> 80% | 80% <br> 70% | 70% <br> 60%
 Laboratory Assignments (out of 12) | 12 | 12 | 12 | 11
 Programming Projects (out of *n* &mdash; approx 6) | *n* | *n* | *n*  | *n* - 1
