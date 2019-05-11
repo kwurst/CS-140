@@ -1,5 +1,5 @@
-*Version 2018-Summer-1.0, Revised 21 May 2018*
-### *CS-140 BL &mdash; Summer I 2018*
+*Version 2019-Summer-1.0, Revised 11 May 2019*
+### *CS-140 BL &mdash; Summer I 2019*
 
 # CS-140 Introduction to Programming
 
@@ -16,26 +16,30 @@ Dr. Karl R. Wurst<br>
 See <a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a> for contact information and schedule.
 
 ## Meeting Times and Locations
-Lecture and Lab &mdash; TR 9:00am-1:00pm &mdash; ST 107<br>Office hours &mdash; TR 8:30-9:00am and TR 1:00-1:30pm, or by appointment &mdash; ST 110C
+Lecture and Lab &mdash; TR 8:30am-12:30pm &mdash; Sullivan 105<br>Office hours &mdash; TR 8:00-8:30am and TR 12:30-1:00pm, or by appointment &mdash; Sullivan 105 or ST 110D
 
 ## It's in the Syllabus
 <img src=http://www.phdcomics.com/comics/archive/phd051013s.gif><br>
 <a href=http://www.phdcomics.com/comics.php?f=1583>http://www.phdcomics.com/comics.php?f=1583</a>
 
+Of course, not *everything* is in the syllabus, but many things are. 
+
+If you have a question, please check the syllabus first, and then ask if you can't find the answer.
+
 ## Textbook
 
 *Java Early Objects*<br>
 Roman Lysecky and Adrian Lizarraga<br>
-zyBooks, 2018<br>
+zyBooks<br>
 [Textbook Website](http://www.zybooks.com/catalog/java-early-objects/)
 
 1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com)
-2. Enter zyBook code: `WORCESTERCS140WurstSummer2018`
+2. Enter zyBook code: `WORCESTERCS140WurstSummer2019`
 3. Subscribe
 
 Additional information:
 
-* A subscription is $58 and will last until Jul 12, 2018. Students will be able to subscribe until Jun 28, 2018
+* A subscription is $58 and will last until Jul 13, 2019. Students will be able to subscribe until Jun 29, 2019
 * If you are retaking the class, zyBooks is happy to offer a free subscription for subsequent enrollment in the same class. Email the new zyBook code to support@zybooks.com, letting us know that you are retaking the class.
 * For students who cannot pay until financial aid arrives, deferments may be available by contacting support@zybooks.com.
 
@@ -46,10 +50,11 @@ In addition to the textbook, to successfully complete this course you will need:
 	1. **BlueJ** &mdash; This is the Java programming environment we will be using. We will download and install this software during the first laboratory session.
 	2.	**Git** &mdash; We will use this software to share code during lab, and submit code to the instructor. We will download and install this software during the first laboratory session.
 2.	**Internet Access**: You will need internet access for access to:
-	1. **Blackboard** &mdash; All course materials and announcements will be made available through the course site on Blackboard. Quizzes will be given on Blackboard. Students will be required to use Blackboard as the course tool. 
-	2. **WSU Gmail** &mdash; You must check your WSU Gmail account on a regular basis. All communications to the class, such as corrections to problem sets or changes in due dates, will be sent to your WSU Gmail account.
-	3. **Piazza** &mdash; This is an online service that lets you ask (and answer other students’) questions about the course assignments, materials, and topics.
-	4. **GitLab** &mdash; This is where we will use to host and submit our code.
+	1. **ZyBooks** --- Our textbook and Java code-writing practice.
+	2. **Blackboard** &mdash; All course materials and announcements will be made available through the course site on Blackboard. Quizzes will be given on Blackboard. Students will be required to use Blackboard as the course tool. 
+	3. **WSU Gmail** &mdash; You must check your WSU Gmail account on a regular basis. All communications to the class, such as corrections to problem sets or changes in due dates, will be sent to your WSU Gmail account.
+	4. **Piazza** &mdash; This is an online service that lets you ask (and answer other students’) questions about the course assignments, materials, and topics.
+	5. **GitLab** &mdash; This is where we will use to host and submit our code.
 
 ## Where Does This Course Lead?* CS-242 Data Structures * CS-254 Computer Organization and Architecture
 * CS-286 Database Design and Applications* Your professional career.
@@ -114,7 +119,7 @@ Your grade for the course will be determined by which assignments and/or how man
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D 
 --- | :-: | :-: | :-: | :-:
 Attendance and Participation (out of 12) | 12 | 12 | 11 | 10
-Readings Quizzes (out of *n*) | *n* | *n* | *n*  | *n* - 1
+Readings Quizzes Average | 90% | 80% | 70%  | 60%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | 100% <br> 90% | 90% <br> 80% | 80% <br> 70% | 70% <br> 60%
 Laboratory Assignments (out of 11) | 11 | 11 | 11 | 10
 Programming Projects (out of *n* &mdash; approx 6) | *n* | *n* | *n*  | *n* - 1
@@ -134,13 +139,26 @@ Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
  
 * WSU has no A+ grade.
 * I reserve the right to revise *downward* the required number of assignments needed for each base grade due to changes in number of assignments assigned or unexpected difficulties with assignments.
-## Quizzes on ReadingsYou will take quizzes on the readings so that I may assess where students are having conceptual difficulties with the material. In addition to giving an answer to the quiz questions, you will required to explain your reasoning for the answers you chose. All quizzes can be attempted an unlimited number of times.
+## Class and Lab Attendance and Participation
+Since there will be no lecture during class, it is particularly important that you attend class sessions and participate in developing the material and concepts with your group. Simply being present is not enough to really learn the material - you need to play your part.
 
-## zyBooks PracticeThe zyBooks textbook contains both Participation activities, where credit is given simply for trying the activity, and Challenge activities which require a correct answer. All activities can be attempted an unlimited number of times.
+During class time you are expected to participate in your group, to play your assigned role, and to contribute to your groups's notes.
+
+During lab time, you will be working with your lab partner to complete the lab assignment.
+
+**You will be using your computer within your group activities and labs. You should only be using your computer for the classwork. You should not be checking sites that are unrelated to the course, or messaging friends. If I see that you are doing other things on your computer and not participating in your group, I will warn you. If I have to warn you a second time during that class, you will lose your participation points for that class.**
+
+## Quizzes on ReadingsYou will take quizzes on the readings so that I may assess where students are having conceptual difficulties with the material. In addition to giving an answer to the quiz questions, you will required to explain your reasoning for the answers you chose. 
+
+***All quizzes can be attempted an unlimited number of times before the due date/time.***
+
+## zyBooks PracticeThe zyBooks textbook contains both Participation activities, where credit is given simply for trying the activity, and Challenge activities which require a correct answer. 
+
+***All activities can be attempted an unlimited number of times before the due date/time.***
 ## Laboratory AssignmentsThe laboratory assignments provide you with the chance to explore the Java language and development tools in an incremental, guided way. This will help you develop confidence and mastery before you are asked to complete programming projects on your own.
 ## Programming ProjectsThe programming projects will give you a chance to apply the material to larger tasks. These projects will require you to understand a design, implement that design in code, test, and debug it. Your code will have to follow formatting and documentation standards.
 
-## ExamsExam 1 will be given on 31 May 2018<br>Exam 2 will be given on 14 June 2018<br>Exam 3 will be given on 28 June 2018<br>
+## ExamsExam 1 will be given on 30 May 2019<br>Exam 2 will be given on 13 June 2019<br>Exam 3 will be given on 27 June 2019<br>
 
 ## Deliverables
 All work must be submitted electronically. The submission method, due date and time will be given on the assignment. The submission date and time will be determined by the timestamp in Blackboard, zyBooks, or GitLab.
@@ -179,7 +197,7 @@ By all means, try to work out the material on your own, but ask for help when yo
 **Asking for help or coming to see me during office hours is not bothering or annoying me. I am here to help you understand the material and be successful in the course.**
 
 ## Contacting Me
-You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office (ST 110C). My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
+You may contact me by email (<a href="mailto:Karl.Wurst@worcester.edu">Karl.Wurst@worcester.edu</a>), telephone (+1-508-929-8728), or see me in my office (ST 110D). My office hours are listed on the schedule on my web page (<a href="http://cs.worcester.edu/kwurst/" target="_blank">http://cs.worcester.edu/kwurst/</a>) or you may make an appointment for a mutually convenient time.
 
 **If you email me, please include "[CS-140]" in the subject line, so that my email program can correctly file your email and ensure that your message does not get buried in my general mailbox.**
 
@@ -240,15 +258,15 @@ It is in the interest of students, faculty, and administrators to recognize the 
 It is my policy to securely dispose of student work one calendar year after grades have been submitted for a course.
 
 ## Schedule
-Our first class will be on Tuesday, 22 May 2018.<br>Our last class will be on Thursday, 28 June 2018.<br>
+Our first class will be on Tuesday, 21 May 2019.<br>Our last class will be on Thursday, 27 June 2019.<br>
 
 *The following course schedule is subject to change.*&nbsp; | Tuesday | Thursday
-:-: | :-: | :-:Week 1	| 22 May 2018<br> Lab 1 | 24 May 2018<br> Lab 2Week 2 | 29 May 2018<br> Lab 3 | 31 May 2018 <br> Lab 4, Exam 1
-Week 3 | 5 June 2018<br> Lab 5 | 7 June 2018 <br> Lab 6
-Week 4 | 12 June 2018<br> Lab 7 | 14 June 2018 <br> Lab8, Exam 2
-Week 5 | 19 June 2018<br> Lab 9 | 21 June 2018 <br> Lab 10
-Week 6 | 26 June 2018<br> Lab 11 | 28 June 2018 <br> Exam 3
+:-: | :-: | :-:Week 1	| 21 May 2019<br> Lab 1 | 23 May 2019<br> Lab 2Week 2 | 28 May 2019<br> Lab 3 | 30 May 2019 <br> Lab 4, Exam 1
+Week 3 | 4 June 2019<br> Lab 5 | 6 June 2019 <br> Lab 6
+Week 4 | 11 June 2019<br> Lab 7 | 13 June 2019 <br> Lab8, Exam 2
+Week 5 | 17 June 2019<br> Lab 9 | 20 June 2019 <br> Lab 10
+Week 6 | 25 June 2019<br> Lab 11 | 27 June 2019 <br> Exam 3
 	## Copyright and License
-#### &copy;2018 Karl R. Wurst, Worcester State University
+#### &copy;2019 Karl R. Wurst, Worcester State University
 
-<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">http://creativecommons.org/licenses/by-sa/4.0/</a> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width=100px/>This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">http://creativecommons.org/licenses/by-sa/4.0/</a> or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.2019
