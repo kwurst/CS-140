@@ -1,7 +1,9 @@
-*Version 2019-Summer-1.0, Revised 11 May 2019*
+*Version 2019-Summer-1.1-FINAL, Revised 11 May 2019*
 ### *CS-140 BL &mdash; Summer I 2019*
 
 # CS-140 Introduction to Programming
+
+# <font color=red>DRAFT - Subject to change until first day of class</font>
 
 ## Credit and Contact Hours
 4 credits
