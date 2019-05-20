@@ -1,9 +1,7 @@
-*Version 2019-Summer-1.1-FINAL, Revised 11 May 2019*
+*Version 2019-Summer-1.2-FINAL, Revised 20 May 2019*
 ### *CS-140 BL &mdash; Summer I 2019*
 
 # CS-140 Introduction to Programming
-
-# <font color=red>DRAFT - Subject to change until first day of class</font>
 
 ## Credit and Contact Hours
 4 credits
@@ -124,11 +122,11 @@ Attendance and Participation (out of 12) | 12 | 12 | 11 | 10
 Readings Quizzes Average | 90% | 80% | 70%  | 60%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | 100% <br> 90% | 90% <br> 80% | 80% <br> 70% | 70% <br> 60%
 Laboratory Assignments (out of 11) | 11 | 11 | 11 | 10
-Programming Projects (out of *n* &mdash; approx 6) | *n* | *n* | *n*  | *n* - 1
-Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of *n* &mdash; approx 12)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of *n* &mdash; approx 6) | *n*<br>*n* - 1 | *n* * .75<br>*n* - 2 | *n* * .5<br>*n* - 3 | *n* *.25<br> *n* - 4
+Programming Projects (out 6)<br>&nbsp;&nbsp;&mdash; Submitted, with appropriate classes and methods, compile and run<br>&nbsp;&nbsp;&mdash; Meet Specification  | <br>6<br>6 | <br>6<br>5 | <br>6<br>4  | <br>5<br>3
+Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 11)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of 6) | 11<br>5 | 8<br>4 | 5<br>3 | 2<br>2
 Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 
-* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit *n* -2  Programming Assignment Disussion Logs that meet specification, you will earn a C grade.
+* **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even if you complete all other requirements for a B grade, but fail to submit 4  Programming Assignment Disussion Logs that meet specification, you will earn a C grade.
 * **Failing to meet the all the requirements for earning a D grade will result in a failing grade for the course.**
 
 #### Plus or Minus Grade Modifiers
