@@ -1,4 +1,4 @@
-*Version 2020-Summer-1.1, Revised 17 May 2020*
+*Version 2020-Summer-1.2, Revised 18 May 2020*
 
 ### *CS-140 AL &mdash; Summer I 2020*
 
@@ -265,14 +265,14 @@ manner.
 
 #### Base Grade
 
-Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn BaseGrade<br>C | Earn Base Grade<br>D
+Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn Base Grade<br>C | Earn Base Grade<br>D
 --- | :-: | :-: | :-: | :-:
 Attendance and Participation (out of 13) | 13 | 13 | 12 | 11
 Readings Quizzes Average | 90% | 80% | 70%  | 60%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | <br>95% <br> 85% | <br>85% <br> 75% | <br>75% <br> 65% | <br>65% <br> 55%
 Laboratory Assignments (out of 13) | 13 | 13 | 12 | 11
 Programming Projects (out 6)<br>&nbsp;&nbsp;&mdash; Submitted, with appropriate classes and methods, compile and run<br>&nbsp;&nbsp;&mdash; Meet Specification  | <br>6<br>6 | <br>6<br>5 | <br>6<br>4  | <br>5<br>3
-Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 13)<br>&nbsp;&nbsp;&mdash; Programming Assignments (out of 6) | <br>12<br>5 | <br>9<br>4 | <br>6<br>3 | <br>3<br>2
+Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 13)<br>&nbsp;&nbsp;&mdash; Programming Projects (out of 6) | <br>12<br>5 | <br>9<br>4 | <br>6<br>3 | <br>3<br>2
 Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even
