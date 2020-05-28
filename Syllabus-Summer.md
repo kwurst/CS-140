@@ -1,4 +1,4 @@
-*Version 2020-Summer-1.3, Revised 21 May 2020*
+*Version 2020-Summer-1.4, Revised 28 May 2020*
 
 ### *CS-140 AL &mdash; Summer I 2020*
 
@@ -264,12 +264,12 @@ manner.
 
 Assignment | Earn Base Grade<br>A | Earn Base Grade<br>B | Earn Base Grade<br>C | Earn Base Grade<br>D
 --- | :-: | :-: | :-: | :-:
-Attendance and Participation (out of 12) | 12 | 12 | 11 | 10
+Attendance and Participation (out of 13) | 12 | 12 | 11 | 10
 Readings Quizzes Average | 90% | 80% | 70%  | 60%
 zyBooks Practice<br>&nbsp;&nbsp;&mdash; Participation Activities<br>&nbsp;&nbsp;&mdash; Challenge Activities | <br>95% <br> 85% | <br>85% <br> 75% | <br>75% <br> 65% | <br>65% <br> 55%
-Laboratory Assignments (out of 13) | 13 | 13 | 12 | 11
+Laboratory Assignments (out of 11) | 10 | 10 | 9 | 8
 Programming Projects (out 6)<br>&nbsp;&nbsp;&mdash; Submitted, with appropriate classes and methods, compile and run<br>&nbsp;&nbsp;&mdash; Meet Specification  | <br>6<br>6 | <br>6<br>5 | <br>6<br>4  | <br>5<br>3
-Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 12)<br>&nbsp;&nbsp;&mdash; Programming Projects (out of 6) | <br>11<br>5 | <br>8<br>4 | <br>5<br>3 | <br>2<br>2
+Discussion Logs<br>&nbsp;&nbsp;&mdash; Lab Assignments (out of 11)<br>&nbsp;&nbsp;&mdash; Programming Projects (out of 6) | <br>10<br>5 | <br>7<br>4 | <br>4<br>3 | <br>1<br>2
 Exam Grade Average (3 exams) | > 50% | > 50% | > 50% | &le; 50%
 
 * **Failing to meet the all the requirements for a particular letter grade will result in not earning that grade.** For example, even
@@ -325,9 +325,9 @@ design, implement that design in code, test, and debug it. Your code will have t
 
 ## Exams
 Exams will be taken online, outside of class time. The exams will be timed, but you will be able each at any time within specified time period.
-* Exam 1 will be posted after class on Tuesday, 2 June 2020, and will be due before class on Thursday, 4 June 2020 (45-hour period)
-* Exam 2 will be posted after class on Tuesday, 16 June 2020, and will be due before class on Thursday, 18 June 2020 (45-hour period)
-* Exam 3 will be posted after class on Tuesday, 30 June 2020, and will be due by the end of the day on Thursday, 1 July 2020 (56-hour period)
+* Exam 1 will be posted after class on Thursday, 4 June 2020, and will be due before class on Tuesday, 9 June 2020
+* Exam 2 will be posted after class on Thursday, 18 June 2020, and will be due before class on Tuesday, 23 June 2020
+* Exam 3 will be posted after class on Tuesday, 30 June 2020, and will be due by the end of the day on Friday, 3 July 2020
 
 ## Deliverables
 All work must be submitted electronically. The submission method, due date and time will be given on the assignment. The submission date and time will be determined by the timestamp in Blackboard, zyBooks, or GitLab.
@@ -491,15 +491,15 @@ Our first class will be on Tuesday, 19 May 2020.<br>Our last class will be on T
 
 *The following course schedule is subject to change.*
 
-&nbsp; | Tuesday | Wednesday | Thursday |
+&nbsp; | Tuesday | Thursday | Friday through Monday
 :-: | :-: | :-: | :-: |
-Week 1 | 19 May 2020<br>Activities 0 & 1 | &nbsp; | 21 May 2020<br>Activities 2, 3, & 4, Lab 1
-Week 2 | 26 May 2020<br>Activity 3, Lab 2 | &nbsp; |28 May 2020<br>Activity 4, Lab 3
-Week 3 | 2 June 2020<br>Activity 4, Lab 4<br>Exam 1 &rarr; | &rarr; Exam 1 &rarr; |4 June 2020<br>&rarr; Exam 1<br>Activity 6, Lab 5
-Week 4 | 9 June 2020<br>Activity 7, Lab 6 | &nbsp; |11 June 2020<br>Activity 8, Lab 7
-Week 5 | 16 June 2020<br>Activity 9, Lab 8<br>Exam 2 &rarr; |  &rarr; Exam 2 &rarr; |18 June 2020<br>&rarr; Exam 2<br>Activity 10, Lab 9
-Week 6 | 23 June 2020<br>Activity 11, Lab 10 | &nbsp; |25 June 2020<br>Activity 12, Lab 11
-Week 7 | 30 June 2020<br>Activity 13, Lab 12<br>Exam 3 &rarr; | &rarr; Exam 3 &rarr; |2 July 2020<br>&rarr; Exam 3
+Week 1 | 19 May 2020<br>Activities 0 & 1 | 21 May 2020<br>Activities 2, 3, & 4, Lab 1A
+Week 2 | 26 May 2020<br>Activity 5, Lab 1B | 28 May 2020<br>Activity 6, Lab 2
+Week 3 | 2 June 2020<br>Activity 7, Lab 3 |4 June 2020<br>Activity 8, Lab 4<br>Exam 1 &rarr; | &rarr; Exam 1 &rarr;
+Week 4 | 9 June 2020<br> &rarr; Exam 1<br>Activity 9, Lab 5 | 11 June 2020<br>Activity 10, Lab 6
+Week 5 | 16 June 2020<br>Activity 11, Lab 7 |18 June 2020<br>Activity 12, Lab 8<br>Exam 2 &rarr; | &rarr; Exam 2 &rarr;
+Week 6 | 23 June 2020<br>&rarr; Exam 2<br>Activity 13, Lab 9 | 25 June 2020<br>Activity 14, Lab 10
+Week 7 | 30 June 2020<br>Activity 15, Lab 11<br>Exam 3 &rarr; | 2 July 2020<br> &rarr; Exam 3 &rarr; | Friday, 3 July 2020<br>&rarr; Exam 3<br>(Due at 11:59pm)
 
 ## Copyright and License
 
